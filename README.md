@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Sayan Chowdhury
-- 👀 I’m interested in ...
+                                                         Hi 👋, I’m Sayan Chowdhury
+                                                            
+                                                           Enthusiastic Learner
 - 🌱 I’m currently learning JavaScript, React, Next.js,Unity,Godot and a lot of stuff.
 - 💞️ I’m looking to collaborate on Anything interesting.
-- 📫 How to reach me ...iamsayanchowdhury003@gmail.com
+- 📫 How to reach me iamsayanchowdhury003@gmail.com
 
 
 <!---
