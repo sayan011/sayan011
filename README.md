@@ -1,6 +1,6 @@
-                                                         Hi 👋, I’m Sayan Chowdhury
+                                                     Hi 👋, I’m Sayan Chowdhury
                                                             
-                                                           Enthusiastic Learner
+                                                        Enthusiastic Learner
 - 🌱 I’m currently learning JavaScript, React, Next.js,Unity,Godot and a lot of stuff.
 - 💞️ I’m looking to collaborate on Anything interesting.
 - 📫 How to reach me iamsayanchowdhury003@gmail.com
