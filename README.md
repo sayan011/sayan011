@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Clueless](https://clueless.vercel.app/)
 
-- 🌱 I’m currently learning **JavaScript,TypeScript,NextJS,Node,Redis and a lot of other things**
+- 🌱 I’m currently learning **JavaScript,TypeScript,NextJS,Node,Redis,Solidity and a lot of other things**
 
 - 👯 I’m looking to collaborate on **any Project**
 
