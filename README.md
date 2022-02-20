@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **back-end**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Web3**
 
 - 📫 How to reach me **sayanchowdhury011@gmail.com**
 
