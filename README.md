@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Chowdhury</h1>
-<h3 align="center">An enthusiastic frontend developer</h3>
+<h3 align="center">Aspiring Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan011&label=Profile%20views&color=0e75b6&style=flat" alt="sayan011" /> </p>
 
