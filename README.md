@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Clueless](https://clueless.vercel.app/)
 
-- 🌱 I’m currently learning **Go,Solidity,Node,TypeScript and a lot of other things**
+- 🌱 I’m currently learning **Go,Solidity,Node,TypeScript and a lot of other things.**
 
 - 👯 I’m looking to collaborate on **any Project**
 
