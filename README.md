@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayan_011" target="blank"><img src="https://img.shields.io/twitter/follow/sayan_011?logo=twitter&style=for-the-badge" alt="sayan_011" /></a> </p>
 
-- 🔭 I’m currently working on [Clueless](https://clueless.vercel.app/)
+- 🔭 I’m currently working on [Clueless](https://www.clueless.tech/)
 
 - 🌱 I’m currently learning **Go,Solidity,Node,TypeScript and a lot of other things.**
 
