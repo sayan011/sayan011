@@ -1,6 +1,6 @@
 # 💫About Me :
 <h1 align="center">Hi 👋, I'm Sayan Chowdhury</h1>
-<h3 align="center">An Aspiring Blockchain Developer</h3>
+<h3 align="center">A Blockchain Developer</h3>
 
 - 🔭 I’m currently working on [Clueless](https://www.clueless.tech/)
 
