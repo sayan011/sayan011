@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **any Project**
+- 👯 I’m looking to collaborate on **any interesting dApp**
 
 - 🤝 I’m looking for help with **back-end**
 
