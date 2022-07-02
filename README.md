@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Memeth](https://memeth-seven.vercel.app/)
 
-- 🌱 I’m currently learning **Go,Solidity and a lot of other things**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **any Project**
 
