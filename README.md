@@ -6,10 +6,6 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **anything interesting**
-
-- 🤝 I’m looking for help with **back-end**
-
 - 💬 Ask me about **Web3**
 
 - 📫 How to reach me **sayanchowdhury0111@gmail.com**
