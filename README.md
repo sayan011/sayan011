@@ -1,8 +1,27 @@
 # 💫About Me :
+
+
 <h1 align="center">Hi 👋, I'm Sayan Chowdhury</h1>
 <h3 align="center">A Blockchain Developer</h3>
+<img align="right" alt="GIF" src="https://c.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif" width="400px" height="250" />
+<br>
+<br> 
+- 🔭 I’m currently working on [MemEth](https://github.com/sayan011/Memeth)  
+  
+
+- 🌱 I’m currently learning Hyperledger   
+  
+
+- ❓ Ask me about anything related to Web3  
+  
+
+- ⚡ Fun fact: My cat hates me  
+  
 
 - 📫 How to reach me **sayanchowdhury0111@gmail.com**
+
+<br/>  
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-chowdhury-57108b227/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sayan_011) 
@@ -14,8 +33,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sayan011&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayan011&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sayan011&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
