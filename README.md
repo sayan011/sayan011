@@ -3,11 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Sayan Chowdhury</h1>
 <h3 align="center">A Blockchain Developer</h3>
-<img align="right" alt="GIF" src="https://c.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif" width="400px" height="250" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="400px" height="400"  />
 <br>
 <br> 
-- 🔭 I’m currently working on [MemEth](https://github.com/sayan011/Memeth)  
-  
 
 - 🌱 I’m currently learning Hyperledger   
   
