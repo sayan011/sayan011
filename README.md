@@ -33,5 +33,7 @@
 
 
 
+[![Aritra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sayan011&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/sayan011)
+Footer
 
 
