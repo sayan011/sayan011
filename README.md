@@ -16,7 +16,7 @@
 - ⚡ Fun fact: My cat hates me  
   
 
-- 📫 How to reach me **sayanchowdhury0111@gmail.com**
+- 📫 Reach me **sayanchowdhury0111@gmail.com**
 
 <br/>  
 
