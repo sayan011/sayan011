@@ -11,7 +11,7 @@
 <br>
 <br> 
 
-- 🌱 I’m currently learning Hyperledger   
+- 🌱 I’m currently learning Smart Contract Auditing  
   
 
 - ❓ Ask me about anything related to Web3  
