@@ -1,12 +1,11 @@
 # 💫About Me :
 
 
-<img align="top" alt="GIF" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" width="1500px" height="300"  />
 
 <h1 align="center">Hi 👋, I'm Sayan Chowdhury</h1>
 <h3 align="center">A Blockchain Developer</h3>
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="400px" height="400"  />
+<img align="right" alt="GIF" src="https://data.whicdn.com/images/148199786/original.gif" width="500px" height="300"  />
 
 <br>
 <br> 
