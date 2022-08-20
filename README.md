@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Chowdhury</h1>
 <h3 align="center">A Blockchain Developer</h3>
 
-<img align="right" alt="GIF" src="https://data.whicdn.com/images/148199786/original.gif" width="500px" height="300"  />
+<img align="right" alt="GIF" src="https://data.whicdn.com/images/148199786/original.gif" width="400px" height="250"  />
 
 <br>
 <br> 
