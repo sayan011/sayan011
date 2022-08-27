@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Smart Contract Auditing**
   
 
-- ❓ Ask me about anything related to **Web3**  
+- ❓ Ask me about anything related to **Blockchain**  
   
 
 - ⚡ Fun fact: My cat hates me  
