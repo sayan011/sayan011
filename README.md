@@ -19,7 +19,7 @@
 - ⚡ Fun fact: My cat hates me  
   
 
-- 📫 Reach me **sayanchowdhury0111@gmail.com**
+- 📫 Reach me **sayan011@proton.me**
 
 
 <br/>  
