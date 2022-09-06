@@ -16,9 +16,6 @@
 - ❓ Ask me about anything related to **Blockchain**  
   
 
-- ⚡ Fun fact: My cat hates me  
-  
-
 - 📫 Reach me **sayan011@proton.me**
 
 
