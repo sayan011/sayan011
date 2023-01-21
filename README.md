@@ -5,7 +5,7 @@
 <h1 align="center">gm anon, I'm sayan</h1>
 <h3 align="center">a security researcher / smart contract auditor</h3>
 
-<img align="right" alt="GIF" src="https://data.whicdn.com/images/148199786/original.gif" width="400px" height="250"  />
+<img align="right" alt="GIF" src="https://media.tenor.com/0ygiqFaX-ssAAAAM/bongo-cat-typing.gif" width="300px" height="300"  />
 
 <br>
 <br> 
