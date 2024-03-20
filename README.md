@@ -2,8 +2,8 @@
 
 
 
-<h1 align="center">I'm sayan</h1>
-<h3 align="center">a smart contract security researcher</h3>
+<h1 align="center">I'm a smart contract security researcher</h1>
+
 
 <img align="right" alt="GIF" src="https://media.tenor.com/0ygiqFaX-ssAAAAM/bongo-cat-typing.gif" width="300px" height="340"  />
 
